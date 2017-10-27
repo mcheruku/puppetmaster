@@ -1,3 +1,4 @@
+#### This is using varibales
 class motd {
 file {'/etc/motd':
       # source => 'puppet:///modules/motd/motd.';
